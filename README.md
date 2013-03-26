@@ -1,7 +1,8 @@
 Autoslice
 =========
 
-Slice images based off of features in the image.
+Slice images based off of features in the image (black rectangles).
+Still very rough, if you run into problems please send test images!
 
 ![test source image](https://github.com/kurrik/autoslice/raw/master/test/test01.fw.png?raw=true)
 
